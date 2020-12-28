@@ -1,4 +1,4 @@
-![React-Native Covid App Actions Test](https://github.com/melch-inno/Covid-reactnative-app/workflows/React-Native%20Covid%20App%20Actions%20Test/badge.svg)
+![React-Native-covid-app-actions](https://github.com/melch-inno/Covid-reactnative-app/workflows/React-Native-covid-app-actions/badge.svg)
 
 # Covid-reactnative-app
 React native covid app
